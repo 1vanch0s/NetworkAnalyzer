@@ -27,6 +27,8 @@
 ## Установка
 
 1. Клонировать репозиторий:
-``` git clone https://github.com/1vanch0s/NetworkAnalyzer```
-2. Открыть проект в Visual Studio.
-3. Построить и запустить приложение.
+```bash
+git clone https://github.com/1vanch0s/NetworkAnalyzer
+```
+3. Открыть проект в Visual Studio.
+4. Построить и запустить приложение.
